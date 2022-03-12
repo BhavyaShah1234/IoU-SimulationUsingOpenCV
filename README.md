@@ -1,0 +1,2 @@
+# IoU-SimulationUsingOpenCV
+This is an Intersection over Union simulation/GUI using OpenCV and Python. The blue rectangle indicates the true bounding box and red rectangle indicates predicted bounding box. The green rectangle represents the common/intersecting region of the true and predicted bounding boxes. One can change the canvas dimensions as well as the dimensions of the red and blue rectangles.
